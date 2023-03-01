@@ -1,5 +1,5 @@
 h1 {
-  text-shadow: 1px 2px blue;
+  text-shadow: 1px 2px purple;
 }
 
 #banana {
@@ -8,4 +8,18 @@ h1 {
 
 #limon {
   color: green;
+}
+
+#sandia {
+  color: rgb(244, 247, 244);
+  background-color: rgb(3, 3, 3);
+}
+
+#pera {
+  color: rgb(17, 17, 202);
+}
+
+#kiwii {
+  text-shadow: 1px 2px rgb(255, 153, 0);
+  font-size: 50px;
 }
