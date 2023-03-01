@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(106, 212, 177);
+  font-size: 100px;
+  text-align: center;
+  background-color: rgb(0, 255, 0);
+}
+h3 {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 251, 0);
+  background-color: rgb(201, 0, 0);
+}
+#hola {
+  color: blue;
+  text-align: center;
+}
+#hol {
+  color: rgb(132, 0, 255);
+}
