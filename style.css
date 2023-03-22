@@ -1,1 +1,14 @@
-#descarga.jpg display;
+#solo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#aunque {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#alla {
+  display: block;
+  margin-left: auto;
+}
