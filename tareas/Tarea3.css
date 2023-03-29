@@ -1,0 +1,28 @@
+#solo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter:drop-shadow(10px 10px red)
+}
+h1 {
+  text-align: center;
+}
+#ho {
+  text-align: center;
+}
+#aunque {
+  display: block;
+  margin-right: auto;
+  filter:drop-shadow(10px 10px yellow)
+}
+
+#alla {
+  display: block;
+  margin-left: auto;
+  filter:drop-shadow(10px 10px orange)
+}
+h3 {
+  text-align: right;
+}
+#hola {
+  text-align: right;
